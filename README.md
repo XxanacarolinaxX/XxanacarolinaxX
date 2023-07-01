@@ -13,3 +13,5 @@
 
 
 ### Programando com Kotlin e transformando ideias em realidade mobile! 🚀📱
+
+![Snake animtion](https://github.com/xxanacarolinaxx/xxanacarolinaxx/blob/output/github-contribution-grid-snake.svg)
