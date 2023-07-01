@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carol <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋</font></font>
+## Olá! Eu sou a Carol <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋</font></font>
 
 ## Skills <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📱</font></font>
 <div style="display: inline_block"><br/>
